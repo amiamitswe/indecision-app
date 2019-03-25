@@ -7,7 +7,7 @@ const Action = (props) => (
             onClick={props.handleMakeDecision}
             disabled={!props.hasOptions}
         >
-            What Should I Do Now ?
+            What Should I Do Now for You?
         </button>
     </div>
 );
